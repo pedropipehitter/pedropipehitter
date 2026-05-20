@@ -1,6 +1,6 @@
 ## Francisco Hermosillo III
 
-**Lighting Designer · Programmer · Production Photographer** · New York, NY
+**Lighting Designer · Programmer · Production Photographer** · New York, NY · [franciscohermosilloiii.com](https://franciscohermosilloiii.com)
 
 Freelance lighting designer, programmer, and production photographer based in NYC. Designing for theatre, opera, dance, and live entertainment. Off-Broadway, regional, and large-scale live event credits.
 
@@ -35,7 +35,3 @@ Minimal by default. Code that doesn't exist can't have bugs. I prefer CLI-first 
 Ten years managing real-time state on live shows builds a specific kind of discipline. The work has run from Off-Broadway through regional and educational theatre, opera, dance touring, themed entertainment, and the high-end corporate and private event circuit. The consoles have been ETC EOS and GrandMA; MIDI MSC and OSC handle whatever needs to talk between machines. On a live show, there is no rollback. You learn to think clearly about failure modes, state consistency, and what "working software" actually means.
 
 That thinking carries into everything I build.
-
----
-
-Full portfolio: **[franciscohermosilloiii.com](https://franciscohermosilloiii.com)**
