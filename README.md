@@ -8,6 +8,15 @@ Self-taught coder. I build software for my own work and for the collaborators I 
 
 ---
 
+### Lighting Tools
+
+| Repo | What it is |
+|---|---|
+| [eos-cli](https://github.com/pedropipehitter/eos-cli) | Small CLI for downloading ETC Eos Family Software installers by version. Built because I swap Eos versions between shows and clicking through release pages got old. |
+| [homebrew-eos](https://github.com/pedropipehitter/homebrew-eos) | Homebrew tap for the eos CLI above. |
+
+---
+
 ### Self-Hosted
 
 The pieces of my own infrastructure that live in the open:
